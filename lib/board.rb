@@ -1,2 +1,2 @@
 board = [" "," "," "," "," "," "," "," "," "]
-puts board 
+puts board
