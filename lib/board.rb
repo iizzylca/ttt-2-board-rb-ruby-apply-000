@@ -1,2 +1,2 @@
-board=Array.new
+board = Array.new
 puts board
