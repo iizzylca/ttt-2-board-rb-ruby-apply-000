@@ -1,2 +1,2 @@
-board = Array.new 9, "x"
+board=Array.new
 puts board
