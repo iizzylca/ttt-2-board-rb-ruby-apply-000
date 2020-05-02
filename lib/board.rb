@@ -1,2 +1,2 @@
 board = Array.new
-Array.new(3,"")
+Array.new(3)
