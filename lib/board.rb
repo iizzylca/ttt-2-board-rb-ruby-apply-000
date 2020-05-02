@@ -1,1 +1,2 @@
-board = Array.new
+board = Array.new 9, " "
+puts board.inspect
