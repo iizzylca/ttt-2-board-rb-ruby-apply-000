@@ -1,4 +1,2 @@
-
-board = ["","","","","","","","",""]
-puts board
-board [0]
+board = Array.new 9, ""
+puts board.inspect
